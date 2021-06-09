@@ -1,0 +1,10 @@
+h1{
+  color:blue;
+}
+li{
+  color:red;
+}
+p{
+  color: rgba(255,99,1)
+}
+/* we can also use rgb and hex code*/

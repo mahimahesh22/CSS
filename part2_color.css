@@ -1,0 +1,18 @@
+body{
+  background: grey;
+}
+div{
+  color: yellow;
+  border-color:pink;
+  border-width: blue;
+  border-style: dotted;
+}
+p
+{
+  color:violet
+}
+span
+{
+  background-color: blue;
+  color: orange;
+}
